@@ -1,0 +1,13 @@
+<project>
+  <label>Loft<label>
+  <tab>
+    <label>Licht</label>
+    <bgcolor>#112233</bgcolor>
+    <line>
+      <groupaddress>1/1/1</groupaddress>
+      <datatype>boolean</datatype>
+      <access>RW</access>
+      <label>Keuken</label>
+    </line>
+  </tab>
+</project>
